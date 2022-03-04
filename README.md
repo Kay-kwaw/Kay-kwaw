@@ -27,9 +27,9 @@
 <br>
 
 <h2 align=center> 🫂 Connect with me 👨🏾‍🏫</h2>
-<a href="###" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_jhohannes" height="30" width="40" /></a>
+<a href="@kwawkumi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@kwawkumi" height="30" width="40" /></a>
 <a href="###" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Domeh John" height="30" width="40" /></a>
-<a href="###" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khelvynj" height="30" width="40" /></a>
+<a href="###" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kwaw_kumi" height="30" width="40" /></a>
 <br>
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" />
 <p><strong>  +233 206 478 514</strong></p>
