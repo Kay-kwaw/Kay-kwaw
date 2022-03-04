@@ -2,10 +2,7 @@
 
 <p align=center><strong></strong></p>
 
-- 👯 I’m looking to collaborate on any project concerning django and web development.
-- 🤔 I’m looking for help with django and CSS 😒🤌🏾.
-- 💬 Ask me about linux and web development 🤞🏾
-- ⚡ Fun fact: I think I can learn everything that interests me 😍😛
+
 
 <h2 align=center>Programming Languages🍃 And Frameworks</h2>
 
