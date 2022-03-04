@@ -1,5 +1,10 @@
 <h1 align="center">Hi there, Friend👋🏽. I'm <span>Kwaw Kumi Miezah</span></h1>
 
+<p>I'm  a tertiary</p>
+<p>Currently undergoing some courses on Web development and UI/UX designs</p>
+
+
+
 <p align=center><strong></strong></p>
 
 
