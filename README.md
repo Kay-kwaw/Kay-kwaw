@@ -27,14 +27,14 @@
 <br>
 
 <h2 align=center> 🫂 Connect with me 👨🏾‍🏫</h2>
-<a href="@kwawkumi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@kwawkumi" height="30" width="40" /></a>
+<a href="kwawkumi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@kwawkumi" height="30" width="40" /></a>
 <a href="###" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Domeh John" height="30" width="40" /></a>
-<a href="###" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kwaw_kumi" height="30" width="40" /></a>
+<a href="www.instagram.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kwaw_kumi" height="30" width="40" /></a>
 <br>
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" />
 <p><strong>  +233 206 478 514</strong></p>
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40">
-<p><strong>kwawkumi9@gmial.com</strong></p>
+<p><strong>kwawkumi9@gmail.com</strong></p>
 <br>
 
 
