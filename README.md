@@ -28,7 +28,7 @@
 
 <h2 align=center> 🫂 Connect with me 👨🏾‍🏫</h2>
 <a href="https://twitter.com/KwawKumi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@kwawkumi" height="30" width="40" /></a>
-<a href="###" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Domeh John" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kwaw Kumi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kwaw_kumi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kwaw_kumi" height="30" width="40" /></a>
 <br>
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" />
