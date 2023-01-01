@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/flutter-%23E34F26.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-%23E34F26.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
 
 
 
