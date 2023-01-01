@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/flutter-%23E34F26.svg?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-%23E34F26.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-%23E34F26.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-%23E34F26.svg?style=for-the-badge&logo=mySQL&logoColor=white" />
 
 
 
