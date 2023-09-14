@@ -1,7 +1,9 @@
 <h1 align="center">Hi👋🏽. I'm <span>Kwaw Kumi Miezah</span></h1>
 
-<p> - I'm a tertiary Student</p>
-<p> - Currently undergoing some courses on Web development, App Development and UI/UX designs (A beginner tho)</p>
+<p> - Hello there! </p>
+<p> - I'm a versatile and creative professional, specializing in both UI/UX design and Flutter mobile development.
+  With a keen eye for aesthetics, a deep understanding of user behavior, and the technical skills to bring designs to life, 
+  I'm dedicated to crafting exceptional digital experiences that captivate and delight users.</p>
 <p> - Looking for new opportunities to explore </p> 
 
 
