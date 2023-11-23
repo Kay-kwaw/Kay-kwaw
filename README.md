@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kwaw Kumi Miezah</h1>
-<h3 align="center">A designer with keen eye for aesthetic creations, coupled with proficiency in software development</h3>
+<h3 align="center">A designer with keen eye for aesthetic creations, coupled with proficiency in software development, Mobile development specifically</h3>
 
 - 🌱 I’m currently learning **SwiftUi,Ai,Database,Product Designing**
 
