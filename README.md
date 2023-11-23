@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kwaw Kumi Miezah</h1>
 <h3 align="center">A designer with keen eye for aesthetic creations, coupled with proficiency in software development</h3>
 
-- 🌱 I’m currently learning **SwiftUi,Ai,Database**
+- 🌱 I’m currently learning **SwiftUi,Ai,Database,Product Designing**
 
 - 📫 How to reach me **k.kumimiezah@gmail.com**
 
