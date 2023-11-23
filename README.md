@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently learning **SwiftUi,Ai,Database,Product Designing**
 
+- 🤝 I’m looking for help with **Open source projects for flutter and swiftUi**
+
 - 📫 How to reach me **k.kumimiezah@gmail.com**
+
+- ⚡ Fun fact **I have no English name.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
