@@ -93,7 +93,7 @@ Figma • Framer • UI/UX Design • Product Management
 ### Tools
 
 <p>
-Git • GitHub • Postman • Android Studio • VS Code
+Git • GitHub • Postman • Android Studio • VS Code • Cursor
 </p>
 
 ---
