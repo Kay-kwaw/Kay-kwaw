@@ -1,22 +1,132 @@
 <h1 align="center">Hi 👋, I'm Kwaw Kumi Miezah</h1>
-<h3 align="center">A designer with keen eye for aesthetic creations, coupled with proficiency in software development, Mobile development specifically</h3>
 
-- 🌱 I’m currently learning **SwiftUi,Ai,Database,Product Designing**
+<h3 align="center">
+Computer Engineering Graduate • Software Engineer • Product Manager • Building Human-Centered AI, Intelligent Healthcare Systems, and Mobile Applications
+</h3>
 
-- 🤝 I’m looking for help with **Open source projects for flutter and swiftUi**
+---
 
-- 📫 How to reach me **k.kumimiezah@gmail.com**
+## 👨‍💻 About Me
 
-- ⚡ Fun fact **I have no English name.**
+I am a Computer Engineering graduate passionate about designing intelligent software systems that solve real-world problems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kwawkumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kwawkumi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kwaw-kumi-b996a0230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kwaw-kumi-b996a0230/" height="30" width="40" /></a>
-<a href="https://www.behance.net/kwawkumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/kwawkumi" height="30" width="40" /></a>
+My experience spans software engineering, product management, UI/UX design, and mobile application development, with projects across healthcare, finance, transportation, and enterprise software.
+
+I enjoy combining software engineering, artificial intelligence, and human-centered design to build scalable and impactful digital products.
+
+---
+
+## 🔬 Research Interests
+
+- Human-Centered Artificial Intelligence
+- Intelligent Healthcare Systems
+- Software Engineering
+- Mobile Computing
+- Human–Computer Interaction (HCI)
+- Applied Machine Learning
+- Intelligent Information Systems
+
+---
+
+## 🚀 Currently Working On
+
+- AI-enabled Healthcare Software
+- Offline-first Intelligent Systems
+- Mobile Application Development
+- Research Portfolio for Graduate Studies
+- Open-source Software Engineering Projects
+
+---
+
+## 🌟 Featured Projects
+
+### 📈 Strativa Digital Investment Platform
+
+AI-assisted private investment platform supporting investor onboarding, issuer workflows, intelligent document management, and decision-support features.
+
+---
+
+### 💊 Intelligent Pharmacy Inventory System
+
+Offline-first pharmacy management system supporting inventory tracking, sales management, expiry monitoring, reporting, and intelligent healthcare workflows.
+
+---
+
+### 🏥 Healthker Mobile Platform
+
+Healthcare mobile application focused on improving digital healthcare delivery through intuitive interfaces and secure data management.
+
+---
+
+### 🤖 Gemini AI Mobile Assistant
+
+Flutter application integrating Google's Gemini Large Language Model for conversational AI and intelligent recommendations.
+
+---
+
+### 🚍 RideMate Smart Transportation Platform
+
+Mobile transportation platform designed to improve campus mobility through secure booking, authentication, and trip management.
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+
+<p>
+Python • Dart • Java • C • C++ • JavaScript • HTML • CSS
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Frameworks & Technologies
 
+<p>
+Flutter • Django • Firebase • SQLite • SQL • MongoDB • REST APIs
+</p>
 
+### Design
+
+<p>
+Figma • Framer • UI/UX Design • Product Management
+</p>
+
+### Tools
+
+<p>
+Git • GitHub • Postman • Android Studio • VS Code
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 📚 Pursuing a research-based Master's degree in Europe
+- 🤝 Collaborating on impactful open-source software projects
+- 🧠 Building AI-driven software systems
+- ✍️ Publishing research-oriented software projects
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio
+
+https://bykwaw.framer.website
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/kwaw-kumi-miezah-358032288/
+
+💻 GitHub
+
+https://github.com/Kay-kwaw
+
+📧 Email
+
+kwawkumi9@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy transforming research ideas into practical software that solves real-world problems.
