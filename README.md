@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kwaw Kumi Miezah</h1>
+<h1 align="center">I'm Kwaw Kumi Miezah</h1>
 
 <h3 align="center">
 Computer Engineering Graduate • Software Engineer • Product Manager • Building Human-Centered AI, Intelligent Healthcare Systems, and Mobile Applications
